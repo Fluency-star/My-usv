@@ -1,2 +1,3 @@
 # My-usv
-I'm learning the control theory of USVs. This repo is used to study the simulation of usv by ROS Gazebo. 
+I'm new in github. This repo is my first project on git. 
+This repo is also used to study the simulation of usv by ROS Gazebo. 
